@@ -1,2 +1,2 @@
 # roundWormsCNN
-Round worms classification with CNN
+Roundworms classification with CNN
